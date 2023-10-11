@@ -92,7 +92,7 @@
 * J Lin, LX Chen, RH Wu, LW Chan, YP Hung, "IM-STAGE: INTERACTIVE MULTIMEDIA SYSTEM FOR STAGE PERFORMANCE."
 
 * Ko, J. C., Chen, W. H., Yu, M. C., Lin, H. H., Lin, J. Y., Wu, S. W., ... & Chang, C. H. (2010, October). im-Space: interactive multimedia-enhanced space for rehabilitation of breast cancer patients. In Proceedings of the 18th ACM international conference on Multimedia (pp. 623-626). ACM.
-* 
+
 * Lin, J. Y., Chen, Y. Y., Ko, J. C., Kao, H., Chen, W. H., Tsai, T. H., ... & Hung, Y. P. (2009, October). im-Tube: an interactive multi-resolution tubular display. In Proceedings of the 17th ACM international conference on Multimedia (pp. 253-260). ACM.
     
 * Chan, L. W., Hu, T. T., Lin, J. Y., Hung, Y. P., & Hsu, J. (2008, October). On top of tabletop: A virtual touch panel display. In Horizontal Interactive Human Computer Systems, 2008. TABLETOP 2008. 3rd IEEE International Workshop on (pp. 169-176). IEEE.
