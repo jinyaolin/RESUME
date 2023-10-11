@@ -77,24 +77,26 @@
 
 * Sung, Hung-Ming, et al. "akaTick: Hybrid Mobile E-Ticketing System Based on Non-Fungible Tokens." 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom). IEEE, 2023.
 
-* Jinyao Lin, 2022 Super Immersive Theatre with high resolution display and high order ambisonics. 3DSA 2022.
+* Jinyao Lin, 2022 Super Immersive Theatre with high resolution display and high order ambisonics. 3DSA, Taipei, Taiwan 2022.
   
 * You-Yang Hu, Yao-Fu Jan, Kuan-Wei Tseng, You-Shin Tsai, Hung-Ming Sung, Jin-Yao Lin, and Yi-Ping Hung. 2021. ABio: Active Bi-Olfactory Display Using Subwoofers for Virtual Reality. In Proceedings of the 29th ACM International Conference on Multimedia (MM '21). Association for Computing Machinery, New York, NY, USA, 2065–2073. 
 
 * He-Lin Luo, Jinyao Lin, Yi-Ping Hung; Interactive Art—Smiling Buddha: Recording the Moment at Which an Observer Smiles through Sight Detection and Smile Recognition. Leonardo 2019; 52 (2): 179–180.
+ 
+* Lin, J. Y., Hung, Y. P. (2015, January), 可快速拼接的互動顯示螢幕以及在科技藝術上的運用, 第一屆科技藝術國際學術研討會, ISAT2015
 
-* Hsu, S. C., Lin, J. Y., Chen, C., Chen, Y. C., Lin, J. S., & Chang, K. H. (2007, September). One million heartbeats. In Proceedings of the 15th ACM international conference on Multimedia (pp. 365-366). ACM.
+* Lin, J. Y., Chen, L. X., Wu, R. H., Chan, L. W., Hung, Y. P. (2014, August). IM-STAGE: Interactive multimedia system for stage performance, In Proceedings of the 24th IPPR conference on Computer Vision, Graphics and Image Processing CVGIP '14
 
-* Chan, L. W., Hu, T. T., Lin, J. Y., Hung, Y. P., & Hsu, J. (2008, October). On top of tabletop: A virtual touch panel display. In Horizontal Interactive Human Computer Systems, 2008. TABLETOP 2008. 3rd IEEE International Workshop on (pp. 169-176). IEEE.
-
-* Lin, J. Y., Chen, Y. Y., Ko, J. C., Kao, H., Chen, W. H., Tsai, T. H., ... & Hung, Y. P. (2009, October). im-Tube: an interactive multi-resolution tubular display. In Proceedings of the 17th ACM international conference on Multimedia (pp. 253-260). ACM.
+* Lin, J. Y., Ke, Z. X., Ting, Y. W., Hung, Y. P.  (2012, August). iM-match: Fast stitching gestures for multiple heterogeneous multi-touch surfaces, In Proceedings of the 22nd IPPR conference on Computer Vision, Graphics and Image Processing CVGIP '12
 
 * J Lin, LX Chen, RH Wu, LW Chan, YP Hung, "IM-STAGE: INTERACTIVE MULTIMEDIA SYSTEM FOR STAGE PERFORMANCE."
 
 * Ko, J. C., Chen, W. H., Yu, M. C., Lin, H. H., Lin, J. Y., Wu, S. W., ... & Chang, C. H. (2010, October). im-Space: interactive multimedia-enhanced space for rehabilitation of breast cancer patients. In Proceedings of the 18th ACM international conference on Multimedia (pp. 623-626). ACM.
+* 
+* Lin, J. Y., Chen, Y. Y., Ko, J. C., Kao, H., Chen, W. H., Tsai, T. H., ... & Hung, Y. P. (2009, October). im-Tube: an interactive multi-resolution tubular display. In Proceedings of the 17th ACM international conference on Multimedia (pp. 253-260). ACM.
+    
+* Chan, L. W., Hu, T. T., Lin, J. Y., Hung, Y. P., & Hsu, J. (2008, October). On top of tabletop: A virtual touch panel display. In Horizontal Interactive Human Computer Systems, 2008. TABLETOP 2008. 3rd IEEE International Workshop on (pp. 169-176). IEEE.
+  
+* Hsu, S. C., Lin, J. Y., Chen, C., Chen, Y. C., Lin, J. S., & Chang, K. H. (2007, September). One million heartbeats. In Proceedings of the 15th ACM international conference on Multimedia (pp. 365-366). ACM.
 
-* Lin, J. Y., Ke, Z. X., Ting, Y. W., Hung, Y. P.  (2012, August). iM-match: Fast stitching gestures for multiple heterogeneous multi-touch surfaces, In Proceedings of the 22nd IPPR conference on Computer Vision, Graphics and Image Processing CVGIP '12
 
-* Lin, J. Y., Chen, L. X., Wu, R. H., Chan, L. W., Hung, Y. P. (2014, August). IM-STAGE: Interactive multimedia system for stage performance, In Proceedings of the 24th IPPR conference on Computer Vision, Graphics and Image Processing CVGIP '14
-
-* Lin, J. Y., Hung, Y. P. (2015, January), 可快速拼接的互動顯示螢幕以及在科技藝術上的運用, 第一屆科技藝術國際學術研討會, ISAT2015 
